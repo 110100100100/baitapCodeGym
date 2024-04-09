@@ -1,0 +1,14 @@
+C:\C#\SayHello\bin\Debug\net8.0\SayHello.exe
+C:\C#\SayHello\bin\Debug\net8.0\SayHello.deps.json
+C:\C#\SayHello\bin\Debug\net8.0\SayHello.runtimeconfig.json
+C:\C#\SayHello\bin\Debug\net8.0\SayHello.dll
+C:\C#\SayHello\bin\Debug\net8.0\SayHello.pdb
+C:\C#\SayHello\obj\Debug\net8.0\SayHello.GeneratedMSBuildEditorConfig.editorconfig
+C:\C#\SayHello\obj\Debug\net8.0\SayHello.AssemblyInfoInputs.cache
+C:\C#\SayHello\obj\Debug\net8.0\SayHello.AssemblyInfo.cs
+C:\C#\SayHello\obj\Debug\net8.0\SayHello.csproj.CoreCompileInputs.cache
+C:\C#\SayHello\obj\Debug\net8.0\SayHello.dll
+C:\C#\SayHello\obj\Debug\net8.0\refint\SayHello.dll
+C:\C#\SayHello\obj\Debug\net8.0\SayHello.pdb
+C:\C#\SayHello\obj\Debug\net8.0\SayHello.genruntimeconfig.cache
+C:\C#\SayHello\obj\Debug\net8.0\ref\SayHello.dll
