@@ -1,0 +1,14 @@
+C:\cs\CodeGymT4\ExchangeRate\bin\Debug\net8.0\ExchangeRate.exe
+C:\cs\CodeGymT4\ExchangeRate\bin\Debug\net8.0\ExchangeRate.deps.json
+C:\cs\CodeGymT4\ExchangeRate\bin\Debug\net8.0\ExchangeRate.runtimeconfig.json
+C:\cs\CodeGymT4\ExchangeRate\bin\Debug\net8.0\ExchangeRate.dll
+C:\cs\CodeGymT4\ExchangeRate\bin\Debug\net8.0\ExchangeRate.pdb
+C:\cs\CodeGymT4\ExchangeRate\obj\Debug\net8.0\ExchangeRate.GeneratedMSBuildEditorConfig.editorconfig
+C:\cs\CodeGymT4\ExchangeRate\obj\Debug\net8.0\ExchangeRate.AssemblyInfoInputs.cache
+C:\cs\CodeGymT4\ExchangeRate\obj\Debug\net8.0\ExchangeRate.AssemblyInfo.cs
+C:\cs\CodeGymT4\ExchangeRate\obj\Debug\net8.0\ExchangeRate.csproj.CoreCompileInputs.cache
+C:\cs\CodeGymT4\ExchangeRate\obj\Debug\net8.0\ExchangeRate.dll
+C:\cs\CodeGymT4\ExchangeRate\obj\Debug\net8.0\refint\ExchangeRate.dll
+C:\cs\CodeGymT4\ExchangeRate\obj\Debug\net8.0\ExchangeRate.pdb
+C:\cs\CodeGymT4\ExchangeRate\obj\Debug\net8.0\ExchangeRate.genruntimeconfig.cache
+C:\cs\CodeGymT4\ExchangeRate\obj\Debug\net8.0\ref\ExchangeRate.dll
