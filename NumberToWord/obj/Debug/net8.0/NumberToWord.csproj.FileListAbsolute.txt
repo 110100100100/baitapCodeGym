@@ -1,0 +1,14 @@
+C:\cs\CodeGymT4\NumberToWord\bin\Debug\net8.0\NumberToWord.exe
+C:\cs\CodeGymT4\NumberToWord\bin\Debug\net8.0\NumberToWord.deps.json
+C:\cs\CodeGymT4\NumberToWord\bin\Debug\net8.0\NumberToWord.runtimeconfig.json
+C:\cs\CodeGymT4\NumberToWord\bin\Debug\net8.0\NumberToWord.dll
+C:\cs\CodeGymT4\NumberToWord\bin\Debug\net8.0\NumberToWord.pdb
+C:\cs\CodeGymT4\NumberToWord\obj\Debug\net8.0\NumberToWord.GeneratedMSBuildEditorConfig.editorconfig
+C:\cs\CodeGymT4\NumberToWord\obj\Debug\net8.0\NumberToWord.AssemblyInfoInputs.cache
+C:\cs\CodeGymT4\NumberToWord\obj\Debug\net8.0\NumberToWord.AssemblyInfo.cs
+C:\cs\CodeGymT4\NumberToWord\obj\Debug\net8.0\NumberToWord.csproj.CoreCompileInputs.cache
+C:\cs\CodeGymT4\NumberToWord\obj\Debug\net8.0\NumberToWord.dll
+C:\cs\CodeGymT4\NumberToWord\obj\Debug\net8.0\refint\NumberToWord.dll
+C:\cs\CodeGymT4\NumberToWord\obj\Debug\net8.0\NumberToWord.pdb
+C:\cs\CodeGymT4\NumberToWord\obj\Debug\net8.0\NumberToWord.genruntimeconfig.cache
+C:\cs\CodeGymT4\NumberToWord\obj\Debug\net8.0\ref\NumberToWord.dll
