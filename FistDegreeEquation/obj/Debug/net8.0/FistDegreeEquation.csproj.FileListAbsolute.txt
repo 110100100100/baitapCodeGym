@@ -1,0 +1,14 @@
+C:\cs\CodeGymT4\FistDegreeEquation\bin\Debug\net8.0\FistDegreeEquation.exe
+C:\cs\CodeGymT4\FistDegreeEquation\bin\Debug\net8.0\FistDegreeEquation.deps.json
+C:\cs\CodeGymT4\FistDegreeEquation\bin\Debug\net8.0\FistDegreeEquation.runtimeconfig.json
+C:\cs\CodeGymT4\FistDegreeEquation\bin\Debug\net8.0\FistDegreeEquation.dll
+C:\cs\CodeGymT4\FistDegreeEquation\bin\Debug\net8.0\FistDegreeEquation.pdb
+C:\cs\CodeGymT4\FistDegreeEquation\obj\Debug\net8.0\FistDegreeEquation.GeneratedMSBuildEditorConfig.editorconfig
+C:\cs\CodeGymT4\FistDegreeEquation\obj\Debug\net8.0\FistDegreeEquation.AssemblyInfoInputs.cache
+C:\cs\CodeGymT4\FistDegreeEquation\obj\Debug\net8.0\FistDegreeEquation.AssemblyInfo.cs
+C:\cs\CodeGymT4\FistDegreeEquation\obj\Debug\net8.0\FistDegreeEquation.csproj.CoreCompileInputs.cache
+C:\cs\CodeGymT4\FistDegreeEquation\obj\Debug\net8.0\FistDegreeEquation.dll
+C:\cs\CodeGymT4\FistDegreeEquation\obj\Debug\net8.0\refint\FistDegreeEquation.dll
+C:\cs\CodeGymT4\FistDegreeEquation\obj\Debug\net8.0\FistDegreeEquation.pdb
+C:\cs\CodeGymT4\FistDegreeEquation\obj\Debug\net8.0\FistDegreeEquation.genruntimeconfig.cache
+C:\cs\CodeGymT4\FistDegreeEquation\obj\Debug\net8.0\ref\FistDegreeEquation.dll
